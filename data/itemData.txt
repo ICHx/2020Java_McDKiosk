@@ -1,0 +1,7 @@
+#Type ID Name Price(HKD) Capacity NutritionValue(KCal)
+1,101,Nuka Cola,$10,330,139
+1,102,Vitasoy,$7,250,210
+2,201,Big Mac,$25,210,563
+2,202,Sandvich,$14,165,400
+3,301,French Fries(M),$7,114,312
+3,302,French Fries(L),$11,154,490
